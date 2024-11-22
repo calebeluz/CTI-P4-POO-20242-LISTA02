@@ -41,10 +41,10 @@ Para executar os exercícios, siga os seguintes passos:
 ## Exercícios Resolvidos
 
 ### EXE01 - Média Ponderada e Conceito
-[Link para o código](CTI-P4-POO-20242-LISTA02/CAP04/EXERCICIOS-RESOLVIDOS/EXE01/src/br/edu/principal.java)
+[Link para o código](https://github.com/calebeluz/CTI-P4-POO-20242-LISTA02/CAP04/EXERCICIOS-RESOLVIDOS/EXE01/src/br/edu/principal.java)
 
 ### EXE02 - Média Aritmética e Situação
-[Link para o código](https://github.com/calebeluz/CTI-P4-POO-20242-LISTA02/blob/main/CAP04/EXERC%C3%8DCIOS-RESOLVIDOS/EXE02/src/br/edu/principal/Principal.java)
+[Link para o código](https://github.com/calebeluz/CTI-P4-POO-20242-LISTA02/blob/main/CAP04/EXERCICIOS-RESOLVIDOS/EXE02/src/br/edu/principal/Principal.java)
 
 ### EXE03 - Maior de Dois Números
 [Link para o código](https://github.com/calebeluz/CTI-P4-POO-20242-LISTA02/blob/main/CAP04/EXERC%C3%8DCIOS-RESOLVIDOS/EXE03/src/br/edu/principal/Principal.java)
