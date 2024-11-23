@@ -163,7 +163,7 @@ Para executar os exercícios, siga os seguintes passos:
 14. [**EXE14 - Cálculo de Dívida com Juros**](https://github.com/calebeluz/CTI-P4-POO-20242-LISTA02/blob/main/CAP05/EXERCICIOS-RESOLVIDOS/EXE14/src/br/edu/principal/Principal.java)  
     Mostra uma tabela com o valor da dívida, juros, parcelamento e o valor das parcelas a serem pagas.
 
-15. [**EXE15 - Estocagem e Impostos de Produtos**](https://github.com/ThFoxs2/CTI-P4-POO-20242-LISTA02/blob/main/CAP05/EXERCICIOS-RESOLVIDOS/EXE15/src/br/edu/principal/Principal.java)  
+15. [**EXE15 - Estocagem e Impostos de Produtos**](https://github.com/calebeluz/CTI-P4-POO-20242-LISTA02/blob/main/CAP05/EXERCICIOS-RESOLVIDOS/EXE15/src/br/edu/principal/Principal.java)  
     Calcula o custo de estocagem, imposto e preço final de produtos com base no preço unitário, categoria e tipo de refrigeração.
 
 16. [**EXE16 - Área de Triângulo**](https://github.com/calebeluz/CTI-P4-POO-20242-LISTA02/blob/main/CAP05/EXERCICIOS-RESOLVIDOS/EXE16/src/br/edu/principal/Principal.java)  
