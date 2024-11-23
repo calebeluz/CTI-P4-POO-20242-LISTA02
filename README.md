@@ -107,9 +107,7 @@ Para executar os exercícios, siga os seguintes passos:
 [Link para o código](https://github.com/calebeluz/CTI-P4-POO-20242-LISTA02/blob/main/CAP04/EXERCICIOS-RESOLVIDOS/EXE22/src/br/edu/principal/Principal.java)
 
 ### EXE23 - Conversão de Temperatura
-[Link para o código](https://github
-
-.com/calebeluz/CTI-P4-POO-20242-LISTA02/blob/main/CAP04/EXERCICIOS-RESOLVIDOS/EXE23/src/br/edu/principal/Principal.java)
+[Link para o código](https://github.com/calebeluz/CTI-P4-POO-20242-LISTA02/blob/main/CAP04/EXERCICIOS-RESOLVIDOS/EXE23/src/br/edu/principal/Principal.java)
 
 ### EXE24 - Cálculo de Fatorial
 [Link para o código](https://github.com/calebeluz/CTI-P4-POO-20242-LISTA02/blob/main/CAP04/EXERCICIOS-RESOLVIDOS/EXE24/src/br/edu/principal/Principal.java)
