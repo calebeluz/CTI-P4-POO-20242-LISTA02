@@ -1,4 +1,4 @@
-Entendido! Você quer que eu substitua "EXERCÍCIOS-RESOLVIDOS" por "EXERCICIOS-RESOLVIDOS" no texto. Aqui está a versão corrigida:
+
 
 ---
 
