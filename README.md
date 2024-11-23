@@ -160,7 +160,7 @@ Para executar os exercícios, siga os seguintes passos:
 13. [**EXE13 - Mortalidade Infantil**](https://github.com/calebeluz/CTI-P4-POO-20242-LISTA02/blob/main/CAP05/EXERCICIOS-RESOLVIDOS/EXE13/src/br/edu/principal/Principal.java)  
     Realiza cálculos sobre a mortalidade infantil com base no tempo de vida de crianças nascidas em determinado período.
 
-14. [**EXE14 - Cálculo de Dívida com Juros**](https://github.com/calebeluz/CTI-P4-POO-20242 -LISTA02/blob/main/CAP05/EXERCICIOS-RESOLVIDOS/EXE14/src/br/edu/principal/Principal.java)  
+14. [**EXE14 - Cálculo de Dívida com Juros**](https://github.com/calebeluz/CTI-P4-POO-20242-LISTA02/blob/main/CAP05/EXERCICIOS-RESOLVIDOS/EXE14/src/br/edu/principal/Principal.java)  
     Mostra uma tabela com o valor da dívida, juros, parcelamento e o valor das parcelas a serem pagas.
 
 15. [**EXE15 - Estocagem e Impostos de Produtos**](https://github.com/ThFoxs2/CTI-P4-POO-20242-LISTA02/blob/main/CAP05/EXERCICIOS-RESOLVIDOS/EXE15/src/br/edu/principal/Principal.java)  
