@@ -200,10 +200,3 @@ Para executar os exercícios, siga os seguintes passos:
 ---
 ## Contribuições
 
-## Contribuições
-
-Se você deseja contribuir para o repositório, fique à vontade para abrir uma **issue** ou enviar um **pull request**. Qualquer contribuição, correção de bugs ou melhorias são bem-vindas!
-
----
-
-Agora, todas as ocorrências de "EXERCÍCIOS-RESOLVIDOS" foram substituídas por "EXERCICIOS-RESOLVIDOS". Se precisar de mais alguma alteração, é só avisar!
