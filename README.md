@@ -112,7 +112,7 @@ Para executar os exercícios, siga os seguintes passos:
 ### EXE24 - Cálculo de Fatorial
 [Link para o código](https://github.com/calebeluz/CTI-P4-POO-20242-LISTA02/blob/main/CAP04/EXERCICIOS-RESOLVIDOS/EXE24/src/br/edu/principal/Principal.java)
 
-### EXE25 - Sequência de Fibonacci
+### EXE25 - Arcos Notáveis
 [Link para o código](https://github.com/calebeluz/CTI-P4-POO-20242-LISTA02/blob/main/CAP04/EXERCICIOS-RESOLVIDOS/EXE25/src/br/edu/principal/Principal.java)
 
 ---
