@@ -1,75 +1,68 @@
 package br.edu.principal;
+import java.util.Scanner;
 
 public class Principal {
+    public static void main(String[] args) {
+        
+        int num, soma = 0, qtd = 0, maior = 0, menor = 0, somaPar = 0, qtdPar = 0, qtdImpar = 0;
+        double media, mediaPar, perc;
 
-	public static void main(String[] args) {
-		double cod_est, cod_carga, peso_toneladas, peso_quilos, pre_carga, imposto, valor_total;
-		cod_est = 3;
-		peso_toneladas = 77;
-		cod_carga = 90;
-		pre_carga = 8;
-		imposto = 100;
-		
-		peso_quilos = peso_toneladas * 1000;
-		
-		System.out.println("Peso Quilos:" + peso_quilos);
-		
-		if(cod_carga >= 10 && cod_carga <= 20) {
-			pre_carga = 100 * peso_quilos;
-		}
-		
-		
-		if(cod_carga >= 21 && cod_carga <= 30) {
-			pre_carga = 250 * peso_quilos;
-		}
-		
-		
-		if(cod_carga >= 31 && cod_carga <= 40) {
-			pre_carga = 340 * peso_quilos;
-		}
-		
-		System.out.println(pre_carga);
-		
-		
-		if(cod_est == 1) {
-			imposto = 35/100 * pre_carga;
-			
-			
-		}
-		
-		
-		if(cod_est == 2) {
-			imposto = 25/100 * pre_carga;
-			
-			
-		}
-		
-		
-		if(cod_est == 3) {
-			imposto = 15/100 * pre_carga;
-			
-			
-		}
-		
-		
-		if(cod_est == 4) {
-			imposto = 5/100 * pre_carga;
-			
-			
-		}
-		
-		
-		if(cod_est == 5) {
-			imposto = 0;
-			
-			
-		}
-		
-		System.out.println(imposto);
-		
-		valor_total = pre_carga + imposto;
-		
-		
-	}
+        Scanner scanner = new Scanner(System.in);
 
+      
+        System.out.print("Digite um número (30000 para encerrar): ");
+        num = scanner.nextInt();
+
+        
+        while (num != 30000) {
+         
+            if (qtd == 0) {
+                maior = menor = num;
+            } else {
+                if (num > maior) maior = num;
+                if (num < menor) menor = num;
+            }
+
+            
+            soma += num;
+            qtd++;
+
+           
+            if (num % 2 == 0) {
+                somaPar += num;
+                qtdPar++;
+            } else {
+                qtdImpar++;
+            }
+
+           
+            System.out.print("Digite um número (30000 para encerrar): ");
+            num = scanner.nextInt();
+        }
+        if (qtd == 0) {
+            System.out.println("Nenhum número digitado.");
+        } else {
+            System.out.println("Soma dos números: " + soma);
+            System.out.println("Quantidade de números: " + qtd);
+            media = (double) soma / qtd;
+            System.out.println("Média dos números: " + media);
+            System.out.println("Maior número: " + maior);
+            System.out.println("Menor número: " + menor);
+
+            if (qtdPar == 0) {
+                System.out.println("Nenhum número par.");
+            } else {
+                mediaPar = (double) somaPar / qtdPar;
+                System.out.println("Média dos números pares: " + mediaPar);
+            }
+
+            perc = ((double) qtdImpar / qtd) * 100;
+            System.out.println("Porcentagem de números ímpares: " + perc + "%");
+        }
+
+    }
 }
+
+
+
+ 
